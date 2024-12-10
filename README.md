@@ -38,7 +38,6 @@ Trivia Questions API:
 - **Beat Your High Score:** Strive to improve and save your highest score.
 
 ## 🖌️ Visuals
-(Insert screenshots or GIFs of the app showcasing the main screen, questions, animations, and score tracking)
 <img src="https://github.com/user-attachments/assets/f19159e6-61e9-4c5b-b448-933247c8105f" alt="Description"  width="800" />
 
 
