@@ -30,3 +30,14 @@ Trivia Questions API:
  ```bash
   https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statements-data.json
   ```
+## 🚀 How to Use
+- **Launch the App:** Start the trivia app to load the first question.
+- **Answer Questions:** Tap True or False to answer the current question.
+- **Navigate:** Use the Next button to skip to the next question.
+- **Score Tracking:** Your score updates in real-time as you play.
+- **Beat Your High Score:** Strive to improve and save your highest score.
+
+## 💡 Future Enhancements
+- Add more categories of questions.
+- Implement a leaderboard to compare scores globally.
+- Introduce a timer for added difficulty.
