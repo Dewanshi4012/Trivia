@@ -28,5 +28,5 @@ The Trivia App is a dynamic quiz game built for Android devices. It fetches triv
 The app fetches questions from the following API:
 Trivia Questions API: 
  ```bash
-  [https://financialmodelingprep.com/api/v3/symbol/NASDAQ?apikey=q43cnDfgGp3rAocOGjsTW6sD6oEeQx3a](https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statements-data.json)
+  https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statements-data.json
   ```
