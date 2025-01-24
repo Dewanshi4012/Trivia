@@ -11,6 +11,10 @@ The Trivia App is a dynamic quiz game built for Android devices. It fetches triv
 - **Animations for Feedback:** Visual cues (shake for incorrect, fade for correct) make it interactive.
 - **Offline State Persistence:** Saves your progress and highest score using shared preferences.
 
+## Screenshots 📷
+<img src="https://github.com/user-attachments/assets/69bd916d-d7c1-416d-a2e0-cc567d6f5023" alt="Description"  width="800" >
+
+
 ## 🛠️ Tech Stack
 - **Programming Language:** Java
 - **Android Architecture:**
